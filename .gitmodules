@@ -1,0 +1,12 @@
+[submodule "kv"]
+	path = kv
+	url = git@github.com:KoalaVim/kv.git
+[submodule "ez-workspaces"]
+	path = ez-workspaces
+	url = git@github.com:KoalaVim/ez-workspaces.git
+[submodule "KoalaVim"]
+	path = KoalaVim
+	url = git@github.com:KoalaVim/KoalaVim.git
+[submodule "actions-internal"]
+	path = actions-internal
+	url = git@github.com:KoalaVim/actions-internal.git
